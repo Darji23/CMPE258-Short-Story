@@ -11,9 +11,9 @@
 
 ## 📌 Deliverables
 
-- **Medium Article**: [https://medium.com/@abhishek.darji/implementation-of-fully-inductive-node-classification-on-arbitrary-graphs-54a487dc7002](https://medium.com/@abhishek.darji/implementation-of-fully-inductive-node-classification-on-arbitrary-graphs-54a487dc7002)
-- **Slide Deck**: [Link to SlideShare / Google Slides](#)
-- **YouTube Video Presentation**: [Link to YouTube Video](#) 
+- **Medium Article**: [Click here for medium article](https://medium.com/@abhishek.darji/implementation-of-fully-inductive-node-classification-on-arbitrary-graphs-54a487dc7002)
+- **Slide Deck**: [Click here for slide deck](https://docs.google.com/presentation/d/1a7cqccVdIFr9XzAoCj6TafJu8oNKAsU5/edit?usp=sharing&ouid=112596860923378988724&rtpof=true&sd=true)
+- **YouTube Video Presentation**: [Click here for video](#) 
 
 ---
 
