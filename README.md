@@ -3,15 +3,17 @@
 **Topic:** Fully-inductive Node Classification on Arbitrary Graphs  
 **Original Paper:** [ https://arxiv.org/abs/2405.20445](https://arxiv.org/abs/2405.20445) 
 
+
+**Name:** Abhishek Darji   
+**ID:** 019113471 
+
 ---
 
 ## 📌 Deliverables
 
-> **Note to Reviewer**: The following are placeholders for the final submission links.
-
 - **Medium Article**: [https://medium.com/@abhishek.darji/implementation-of-fully-inductive-node-classification-on-arbitrary-graphs-54a487dc7002](https://medium.com/@abhishek.darji/implementation-of-fully-inductive-node-classification-on-arbitrary-graphs-54a487dc7002)
 - **Slide Deck**: [Link to SlideShare / Google Slides](#)
-- **YouTube Video Presentation**: [Link to YouTube Video](#) (15-25 minutes explaining the paper and code)
+- **YouTube Video Presentation**: [Link to YouTube Video](#) 
 
 ---
 
