@@ -1,7 +1,7 @@
 # Short Story Assignment: Review & Reproduction of "GraphAny"
 
 **Topic:** Fully-inductive Node Classification on Arbitrary Graphs  
-**Original Paper:** [https://arxiv.org/abs/2405.10000 ](https://arxiv.org/abs/2405.20445) 
+**Original Paper:** [ https://arxiv.org/abs/2405.20445](https://arxiv.org/abs/2405.20445) 
 
 ---
 
@@ -9,7 +9,7 @@
 
 > **Note to Reviewer**: The following are placeholders for the final submission links.
 
-- **Medium Article**: [Link to Medium Article](#)
+- **Medium Article**: [https://medium.com/@abhishek.darji/implementation-of-fully-inductive-node-classification-on-arbitrary-graphs-54a487dc7002](https://medium.com/@abhishek.darji/implementation-of-fully-inductive-node-classification-on-arbitrary-graphs-54a487dc7002)
 - **Slide Deck**: [Link to SlideShare / Google Slides](#)
 - **YouTube Video Presentation**: [Link to YouTube Video](#) (15-25 minutes explaining the paper and code)
 
