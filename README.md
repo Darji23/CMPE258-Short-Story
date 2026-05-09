@@ -1,7 +1,7 @@
 # Short Story Assignment: Review & Reproduction of "GraphAny"
 
-**Topic:** Fully-Inductive Node Classification on Any Graph (Graph Foundation Models)  
-**Original Paper:** [GraphAny: A Foundation Model for Node Classification on Any Graph](https://arxiv.org/abs/2405.10000) (2024/2025)  
+**Topic:** Fully-inductive Node Classification on Arbitrary Graphs  
+**Original Paper:** [https://arxiv.org/abs/2405.10000 ](https://arxiv.org/abs/2405.20445) 
 
 ---
 
@@ -99,6 +99,5 @@ The strong 70%+ accuracy on Texas, despite differing feature dimensions, edge de
 
 ## 📚 References
 
-- **Paper:** [Fully-Inductive Node Classification on Arbitrary Graphs (GraphAny) - Arxiv](https://arxiv.org/abs/2405.10000)
 - **Reference Codebase:** [DeepGraphLearning/GraphAny](https://github.com/DeepGraphLearning/GraphAny)
 - **Libraries used:** PyTorch, PyTorch Geometric, PyTorch Lightning, Hydra.
