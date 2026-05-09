@@ -1,0 +1,10 @@
+{
+    "ind/texa_val_acc": 72.87999725341797,
+    "val_acc": 72.87999725341797,
+    "ind_val_acc": 72.88,
+    "heldout_val_acc": 72.88,
+    "ind/texa_test_acc": 70.2699966430664,
+    "test_acc": 70.2699966430664,
+    "ind_test_acc": 70.27,
+    "heldout_test_acc": 70.27
+}
